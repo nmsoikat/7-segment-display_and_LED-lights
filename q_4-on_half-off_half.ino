@@ -44,8 +44,3 @@ void loop() {
   secondHalf();
   delay(1000);
 }
-
-// Name: Nur Mohammad
-// Roll: 40
-// Batch: E-72
-// Dept.: CSE
