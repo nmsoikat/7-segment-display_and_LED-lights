@@ -46,8 +46,3 @@ void loop() {
 }
 
 
-
-// Name: Nur Mohammad
-// Roll: 40
-// Batch: E-72
-// Dept.: CSE
